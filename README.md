@@ -31,11 +31,11 @@ The analysis results are visualized using a custom color palette:
 ### Population Density Visualization
 The following screenshot shows the **population density** in Natore District:
 
-![Code Map](images/natore-map-1.png)
+![Code Map](Images/natore-map-1.png)
 
 This map highlights areas with varying population densities, helping to identify regions of higher concentration.
 
 ### Urbanization Patterns
 Additionally, here is the visualization of **urbanization** in Natore:
 
-![Full map](images/natore-map-2.png)
+![Full map](Images/natore-map-2.png)
