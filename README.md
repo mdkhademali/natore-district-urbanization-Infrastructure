@@ -28,12 +28,12 @@ The analysis results are visualized using a custom color palette:
 - **JavaScript API**: For manipulating and displaying geospatial data.
 - **Leaflet/Google Maps**: For visualizing results on interactive maps.
 
-### Population Density Visualization
+### Map 1
 
 ![Code Map](Images/natore-map-1.png)
 
 This map highlights areas with varying population densities, helping to identify regions of higher concentration.
 
-### Urbanization Patterns
+### Map 2
 
 ![Full map](Images/natore-map-2.png)
